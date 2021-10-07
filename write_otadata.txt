@@ -1,0 +1,1 @@
+esptool.py write_flash 0x9000 otadata23.bin
